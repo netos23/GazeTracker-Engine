@@ -92,6 +92,9 @@
 		<Unit filename="C:/Users/nikmo/CLionProjects/GazeTracker-Engine/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
+		<Unit filename="C:/Users/nikmo/CLionProjects/GazeTracker-Engine/CMakeListsPrivate.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
 		<Unit filename="C:/Users/nikmo/CLionProjects/GazeTracker-Engine/../../../../openCV/opencv/build/OpenCVConfig-version.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\openCV\opencv\build\"/>
 		</Unit>

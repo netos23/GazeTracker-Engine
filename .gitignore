@@ -3,3 +3,5 @@ opencv
 opencv/*
 cmake-build-debug/*
 cmake-build-debug
+cmake-build-release/*
+cmake-build-release

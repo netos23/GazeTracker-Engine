@@ -2,8 +2,7 @@ cmake_minimum_required(VERSION 3.17)
 project(EyeTracker)
 
 set(CMAKE_CXX_STANDARD 11)
-set(OpenCV_DIR  "C:\\openCV\\opencv\\build")
-#set(OpenCV_STATIC TRUE)
+include(CMakeListsPrivate.txt)
 
 find_package(OpenCV REQUIRED)
 
